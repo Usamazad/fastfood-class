@@ -1,0 +1,98 @@
+body{
+    color: rgb(7, 7, 7);
+}
+
+
+
+.Azad h1{
+    color: crimson;
+    background-color: darkseagreen;
+    text-align: center;
+}
+ul{
+    color: ghostwhite;
+    text-align: center;
+    background-color: black;
+    padding: 18px 18px;
+}
+
+.menu{
+    background-color: lightslategray;
+}
+.menu h2{
+   color: darkred;
+
+
+}
+.menu img{
+   
+    padding: 1px 285px;
+    margin: 9px 135px;
+}
+
+       
+
+.Featured{
+    color:brown;
+}
+.borger{
+    text-align: center;
+}
+.menu h2{
+    background-color: aliceblue;
+}
+.menu p{
+    text-align: center;
+}
+
+
+
+.menu2{
+text-align: center;
+background-color: lightslategray;
+}
+
+
+
+.featured1 h3{
+    background-color: aliceblue;
+    color: brown;
+}
+
+.featured1 h4,p{
+    text-align: center;
+}
+
+.featured1 img{
+    padding: 41px 440px;
+    margin: 12px 12px;
+}
+.featured1{
+    background-color: lightslategrey;
+}
+
+
+.fries{
+    margin: 19px -17px;
+    padding: 5px 15px;
+    background-color: aliceblue;
+}
+.fries h4,p{
+    text-align: center;
+
+}
+.submitbtn input{
+    padding: 9px 16px;
+    background-color: rgb(185, 10, 10);
+}
+
+.contactbar p{
+    text-align: left;
+}
+
+
+
+ 
+
+
+
